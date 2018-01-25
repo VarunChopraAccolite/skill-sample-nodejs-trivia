@@ -7,13 +7,12 @@ module.exports = {
      */
     QUESTIONS_EN_GB: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'What is the term used for describing the judgmental or commonsense part of problem solving?': [
+                'Heuristic',
+                'Critical',
+                'Value based',
+                'Analytical',
+                'None of the above',
             ],
         },
         {
